@@ -12,7 +12,7 @@ https://www.hackerrank.com/challenges/list-comprehensions/tutorial
 Example 
 
 x = 1 
-y = i
+y = 1
 z = 2
 n = 3
 
@@ -34,7 +34,8 @@ n = int(input())
 
 print([[a, b, c] for a in range(0,x+1) for b in range(0,y+1) for c in range(0,z+1) if a + b + c != n])
 
-''' Explaination:
+'''
+Explaination:
 Starting with 0, assign a b c a value and print. 
 Increment each variable by 1 each loop, until the sum of all three variables equals n. 
 '''
