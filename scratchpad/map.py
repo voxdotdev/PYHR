@@ -1,5 +1,4 @@
-# Python program to demonstrate working
-# of map.
+# Python program to demonstrate working map.
   
 # Return double of n
 def addition(n):
