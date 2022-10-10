@@ -77,8 +77,16 @@ item = {
     'category': ['weapon', 'axe'],
 }
 
-# Summarize the order. 
+# Summarize the list. 
 print(f"You've found a item worth {item['value']} gold!")
 
 for type in item['category']:
     print("Type: \t" + type.title())
+
+'''
+OUTPUT
+You've found a item worth 10 gold!
+Type:   Weapon
+Type:   Axe
+
+'''
