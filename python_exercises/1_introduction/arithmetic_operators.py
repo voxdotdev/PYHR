@@ -1,4 +1,6 @@
 '''
+https://www.hackerrank.com/challenges/python-arithmetic-operators
+
 The provided code stub reads two ints from STDIN, a and b.
 Add code to print three lines where: 
 
